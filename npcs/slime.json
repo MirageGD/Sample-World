@@ -1,0 +1,9 @@
+{
+  "Name": "Slime",
+  "Sprite": "sprites/spr_slime.png",
+  "Level": 1,
+  "Strength": 2,
+  "Stamina": 5,
+  "Intelligence": 0,
+  "RespawnDelaySecs": 5.0
+}

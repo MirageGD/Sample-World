@@ -1,0 +1,20 @@
+{ "columns":10,
+ "grid":
+    {
+     "height":2432,
+     "orientation":"orthogonal",
+     "width":32
+    },
+ "image":"tile_set_meta.png",
+ "imageheight":320,
+ "imagewidth":320,
+ "margin":0,
+ "name":"tile_set_meta",
+ "spacing":0,
+ "tilecount":100,
+ "tiledversion":"1.12.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

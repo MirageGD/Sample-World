@@ -1,0 +1,9 @@
+{
+  "Name": "Bat",
+  "Sprite": "sprites/spr_bat.png",
+  "Level": 1,
+  "Strength": 3,
+  "Stamina": 7,
+  "Intelligence": 0,
+  "RespawnDelaySecs": 5.0
+}

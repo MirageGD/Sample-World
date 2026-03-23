@@ -1,0 +1,10 @@
+{
+  "Name": "Start Island",
+  "Npcs": [
+    "npcs/slime.json",
+    "npcs/slime.json",
+    "npcs/slime.json",
+    "npcs/slime.json",
+    "npcs/slime.json"
+  ]
+}

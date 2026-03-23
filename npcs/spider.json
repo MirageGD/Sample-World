@@ -1,0 +1,9 @@
+{
+  "Name": "Spider",
+  "Sprite": "sprites/spr_spider.png",
+  "Level": 2,
+  "Strength": 6,
+  "Stamina": 10,
+  "Intelligence": 0,
+  "RespawnDelaySecs": 5.0
+}
