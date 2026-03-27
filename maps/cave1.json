@@ -1,10 +1,10 @@
 {
   "Name": "Bat Cave",
   "Npcs": [
-    "npcs/bat.json",
-    "npcs/bat.json",
-    "npcs/bat.json",
-    "npcs/spider.json",
-    "npcs/spider.json"
+    "bat",
+    "bat",
+    "bat",
+    "spider",
+    "spider"
   ]
 }

@@ -5,5 +5,9 @@
   "Strength": 2,
   "Stamina": 5,
   "Intelligence": 0,
-  "RespawnDelaySecs": 5.0
+  "RespawnDelaySecs": 5.0,
+  "Loot": {
+    "slime_jelly": 0.8,
+    "wooden_sword": 0.05
+  }
 }

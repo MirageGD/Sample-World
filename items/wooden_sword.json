@@ -1,0 +1,13 @@
+{
+  "Name": "Wooden Sword",
+  "Description": "A basic sword carved from wood.",
+  "Texture": "sprites/spr_items.png",
+  "SpriteIndex": 0,
+  "Type": "weapon",
+  "Stackable": false,
+  "MaxStackSize": 1,
+  "Damage": 5,
+  "Strength": 1,
+  "Stamina": 0,
+  "Intelligence": 0
+}

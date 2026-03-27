@@ -1,0 +1,9 @@
+{
+  "Name": "Slime Jelly",
+  "Description": "A glob of jelly left behind by a slime.",
+  "Texture": "sprites/spr_items.png",
+  "SpriteIndex": 1,
+  "Type": "none",
+  "Stackable": true,
+  "MaxStackSize": 99
+}
